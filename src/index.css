@@ -293,6 +293,7 @@ header h1 {
 }
 
 #summary-stats {
+  text-align: center;
   display: flex;
   gap: 2rem;
   width: 100%;
