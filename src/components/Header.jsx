@@ -1,8 +1,8 @@
-import logo from '../assets/quiz-logo.png';
+import logo from '../assets/horns.png';
 
 export default function Header(){
     return <header>
         <img src={logo} alt='quiz logo'/>
-        <h1>ReactQuiz</h1>
+        <h1>AnimalsQuizz</h1>
     </header>
 }
